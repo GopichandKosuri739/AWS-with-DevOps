@@ -1,0 +1,89 @@
+1. Azure Data Engineer
+Role Description: Focuses on building and managing the data infrastructure on Azure, including data pipelines, ETL processes, data storage, and data transformations.
+Skills:
+Azure Data Factory, Databricks, Synapse Analytics
+Azure SQL Database, Azure Cosmos DB, and Blob Storage
+Data Lakes, ETL/ELT pipelines
+Python, Spark, SQL
+Data security and governance
+
+2. Azure Solutions Architect
+Role Description: Designs high-level solutions for enterprise data needs, integrating various Azure services to provide scalable and secure data solutions.
+Skills:
+Azure Infrastructure and Networking
+Azure DevOps and CI/CD
+Azure Data Services (SQL, Synapse, Cosmos DB)
+Security, compliance, and governance
+Cost management and optimization
+
+3. Azure Database Administrator (DBA)
+Role Description: Manages, optimizes, and secures databases on Azure, such as Azure SQL Database, Azure Cosmos DB, and other database services.
+Skills:
+Azure SQL Database, MySQL, PostgreSQL
+Performance tuning, query optimization
+Backup, recovery, and disaster recovery
+Security management (encryption, access control)
+Monitoring and troubleshooting
+
+4. Azure Data Scientist
+Role Description: Utilizes data from Azure Data Services to build machine learning models and derive business insights from big data.
+Skills:
+Azure Machine Learning, Synapse Analytics
+Python, R, SQL
+Data visualization (Power BI, Azure Data Studio)
+Working with big data (Data Lake, Databricks)
+Predictive analytics and model deployment
+
+5. Azure Data Analyst
+Role Description: Analyzes business data stored on Azure to generate reports and insights for decision-making, often using tools like Power BI or Synapse.
+Skills:
+Power BI, Azure Synapse Analytics
+SQL and data querying
+Data visualization and reporting
+Azure Data Factory and ETL pipelines
+Excel and data modeling
+
+6. Azure AI Engineer
+Role Description: Specializes in designing and implementing AI solutions using Azure AI services like Azure Cognitive Services, Azure Machine Learning, and Bot Services.
+Skills:
+Azure AI and Cognitive Services
+Azure Machine Learning
+Natural Language Processing (NLP)
+Python, R, TensorFlow, PyTorch
+Data pipelines and storage solutions
+
+7. Azure DevOps Engineer
+Role Description: Manages the deployment, automation, and integration of Azure Data Services within DevOps practices, ensuring smooth CI/CD pipelines.
+Skills:
+Azure DevOps, Git, Jenkins
+CI/CD Pipelines, automation, and IaC (Infrastructure as Code)
+Containerization (Docker, Kubernetes)
+Azure Data Services integration in pipelines
+Monitoring and logging (Azure Monitor, Log Analytics)
+
+8. Azure Cloud Administrator
+Role Description: Manages and monitors Azure resources, including virtual machines, storage, networking, and databases.
+Skills:
+Azure Portal, Azure Resource Manager
+Virtual networks, security groups, VPNs
+Azure SQL, Blob Storage, and other data services
+Monitoring and performance management (Azure Monitor, Log Analytics)
+Cost optimization and scaling
+
+9. Azure Data Governance Specialist
+Role Description: Ensures compliance and governance over data in Azure environments, implementing policies, security controls, and auditing mechanisms.
+Skills:
+Azure Purview (Data Catalog)
+Compliance and security frameworks (GDPR, HIPAA)
+Data encryption, key management (Azure Key Vault)
+Access control and monitoring (RBAC, Azure AD)
+Data governance best practices
+
+10. Azure BI Developer
+Role Description: Develops business intelligence solutions using Azure tools like Power BI, Azure Analysis Services, and Synapse Analytics.
+Skills:
+Power BI, Azure Analysis Services
+Azure SQL Database, Synapse Analytics
+DAX, MDX, and SQL
+ETL processes (Data Factory, SSIS)
+Data modeling and reporting
